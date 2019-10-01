@@ -22,6 +22,6 @@ We match the average RGB value for each N by M adjacent rectangle in the input i
 We can see that the reproduction looks very similar to the originals for simple images. For more complex images (e.g. the skyline), the reproduction still features some noticeable  similarities to the original image.
 
 Non of these pictures are mine, they are taken from 
-https://icon-library.net/images/twitter-app-icon/twitter-app-icon-22.jpg
-https://de.wikipedia.org/wiki/Datei:Google_Chrome_icon_(2011).svg
-https://www.getyourguide.de/new-york-city-l59/half-day-panoramic-night-tour-of-new-york-city-t151778/?utm_force=0
+* https://icon-library.net/images/twitter-app-icon/twitter-app-icon-22.jpg
+* https://de.wikipedia.org/wiki/Datei:Google_Chrome_icon_(2011).svg
+* https://www.getyourguide.de/new-york-city-l59/half-day-panoramic-night-tour-of-new-york-city-t151778/?utm_force=0
